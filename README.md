@@ -93,18 +93,6 @@ I'm strongest in roles where **building fast** and **thinking in prompts** matte
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Salim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salimshaikh-dev&show_icons=true&theme=dark&hide_border=true&bg_color=06090f&title_color=c8973a&icon_color=0dcaf0&text_color=aec9e8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salimshaikh-dev&layout=compact&theme=dark&hide_border=true&bg_color=06090f&title_color=c8973a&text_color=aec9e8)
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 If you're building something at the frontier of AI and need someone who can **ship fast and think in prompts** — let's talk.
